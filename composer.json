@@ -3,7 +3,7 @@
     "type" : "library",
     "description" : "Access The AsteriskManagerConsole via PHP",
     "keywords" : [ "asterisk", "voip", "telephone", "phone"],
-    "homepage" : "http://github.com/heiglandreas/Org_Heigl_Asterisk",
+    "homepage" : "http://github.com/heiglandreas/OrgHeiglAsterisk",
     "license" : "MIT",
     "authors" : [
         {
