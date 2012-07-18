@@ -1,5 +1,5 @@
 {
-    "name" : "Org_Heigl/Asterisk", 
+    "name" : "org_heigl/asterisk", 
     "type" : "library",
     "description" : "Access The AsteriskManagerConsole via PHP",
     "keywords" : [ "asterisk", "voip", "telephone", "phone"],
